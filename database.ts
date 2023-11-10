@@ -1,5 +1,5 @@
-// src/database.ts
 import pgPromise from 'pg-promise';
+
 const pgp = pgPromise();
 const connection = {
   host: 'localhost', // Docker container hostname

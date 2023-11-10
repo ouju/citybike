@@ -1,4 +1,3 @@
-// src/components/ListItem.tsx
 import React from 'react';
 import Link from 'next/link';
 import styles from '../styles/index.module.css';

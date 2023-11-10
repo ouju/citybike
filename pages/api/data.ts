@@ -1,4 +1,4 @@
-// src/pages/api/data.ts
+// pages/api/data.ts
 import { NextApiRequest, NextApiResponse } from 'next';
 import db from '../../database';
 

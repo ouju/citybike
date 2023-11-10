@@ -1,4 +1,3 @@
-// src/utils/api.ts
 interface DataItem {
   id: number;
   station_name: string;

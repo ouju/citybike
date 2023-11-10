@@ -1,12 +1,7 @@
-export type Person = {
-  id: string
-  name: string
-  height: string
-  mass: string
-  hair_color: string
-  skin_color: string
-  eye_color: string
-  gender: string
+export type Station = {
+  id: number
+  station_name: string
+  station_address: string
 }
 
 export type ResponseError = {
